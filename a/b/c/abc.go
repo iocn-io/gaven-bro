@@ -1,9 +1,9 @@
 package abc
 
-func abc() string {
+func Abc() string {
 	return "I am abc"
 }
 
-func err() string {
+func Err() string {
 	return "I am error"
 }
