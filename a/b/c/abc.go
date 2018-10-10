@@ -1,4 +1,4 @@
-package abc
+package c
 
 func Abc() string {
 	return "I am abc"
