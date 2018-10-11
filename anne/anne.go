@@ -2,6 +2,6 @@ package anne
 
 import "fmt"
 
-func Anne() {
-    fmt.Println("I am Anne")
+func Anne(name string) {
+    fmt.Println(name)
 }
