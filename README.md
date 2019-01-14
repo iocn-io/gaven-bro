@@ -1,2 +1,1 @@
-# gaven-dep1
-gaven dependency Test1
+A test package for gaventest
